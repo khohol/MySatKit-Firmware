@@ -64,8 +64,8 @@ int numPosition;
 // Replace with your network credentials
 //const char* ssid = "LUNAR_WIFI";
 //const char* password = "ElonMars2024";
-const char* ssid = "Lunar2024";
-const char* password = "ElonMars2@";
+const char* ssid = "903465.pautina.ua";
+const char* password = "903465573235";
 
 bool flag = true;
 
